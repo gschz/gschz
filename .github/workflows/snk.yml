@@ -16,7 +16,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: hkxdv
+          github_user_name: gschz
           outputs: |
             dist/snake-purple-dark.svg?color_snake=#FF007A&color_dots=#161b22,#2A0A4F,#5A1D7E,#9745F5,#E040FB
             dist/snake-purple-light.svg?color_snake=#FF007A&color_dots=#EBEDF0,#FCDDED,#F8B0D9,#E040FB,#9745F5
