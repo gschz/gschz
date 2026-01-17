@@ -36,15 +36,15 @@
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gschz&theme=midnight-purple&hide_border=true&layout=compact&langs_count=12&hide=Css,JavaScript,EJS" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gschz&theme=default&hide_border=true&layout=compact&langs_count=12&hide=Css,JavaScript,EJS" />
-    <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gschz&theme=midnight-purple&hide_border=true&layout=compact&langs_count=12&hide=Css,JavaScript,EJS" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-zeta-17.vercel.app/api/top-langs/?username=gschz&theme=midnight-purple&hide_border=true&layout=compact&langs_count=12&hide=Css,JavaScript,EJS" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-zeta-17.vercel.app/api/top-langs/?username=gschz&theme=default&hide_border=true&layout=compact&langs_count=12&hide=Css,JavaScript,EJS" />
+    <img height="134em" src="https://github-readme-stats-one-zeta-17.vercel.app/api/top-langs/?username=gschz&theme=midnight-purple&hide_border=true&layout=compact&langs_count=12&hide=Css,JavaScript,EJS" alt="Top Languages" />
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gschz&layout=compact&theme=midnight-purple&hide_border=true&langs_count=12&hide=Css,JavaScript" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gschz&layout=compact&theme=default&langs_count=12&hide=Css,JavaScript" />
-    <img height="134em" src="https://github-readme-stats.vercel.app/api/wakatime?username=gschz&layout=compact&theme=midnight-purple&hide_border=true&langs_count=12&hide=Css,JavaScript" alt="WakaTime Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-zeta-17.vercel.app/api/wakatime?username=gschz&layout=compact&theme=midnight-purple&hide_border=true&langs_count=12&hide=Css,JavaScript" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-zeta-17.vercel.app/api/wakatime?username=gschz&layout=compact&theme=default&langs_count=12&hide=Css,JavaScript" />
+    <img height="134em" src="https://github-readme-stats-one-zeta-17.vercel.app/api/wakatime?username=gschz&layout=compact&theme=midnight-purple&hide_border=true&langs_count=12&hide=Css,JavaScript" alt="WakaTime Stats" />
   </picture>
   <hr style="border: 1px solid #9745F5; width: 100%;" />
 </div>
