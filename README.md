@@ -30,9 +30,9 @@
 <!-- GitHub Stats Section -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gschz&theme=midnight-purple&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gschz&theme=default&hide_border=true" />
-    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=gschz&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-swart-three.vercel.app/?user=gschz&theme=midnight-purple&hide_border=true&fire=EBEBEB" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-swart-three.vercel.app/?user=gschz&theme=default&hide_border=true&fire=EBEBEB" />
+    <img height="130em" src="https://github-readme-streak-stats-swart-three.vercel.app/?user=gschz&theme=midnight-purple&hide_border=true&fire=EBEBEB" alt="GitHub Streak Stats" />
   </picture>
   &nbsp;&nbsp;
   <picture>
