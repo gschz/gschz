@@ -52,9 +52,9 @@
 <!-- Activity Graph Section -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-activity-graph-pi.vercel.app/graph?username=gschz&custom_title=Activity%20Graph&bg_color=0D1117&color=9745F5&line=9745F5&point=9745F5&area_color=9745F5&title_color=FFFFFF&area=true&hide_border=true&range=all_time" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-activity-graph-pi.vercel.app/graph?username=gschz&custom_title=Activity%20Graph&bg_color=FFFFFF&color=9745F5&line=9745F5&point=9745F5&area_color=9745F5&title_color=24292e&area=true&hide_border=true&range=all_time" />
-    <img src="https://gh-readme-activity-graph-pi.vercel.app/graph?username=gschz&custom_title=Activity%20Graph&bg_color=0D1117&color=9745F5&line=9745F5&point=9745F5&area_color=9745F5&title_color=FFFFFF&area=true&hide_border=true&range=all_time" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-activity-graph-pi.vercel.app/api/server?username=gschz&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-activity-graph-pi.vercel.app/api/server?username=gschz&theme=light&area=true&hide_border=true" />
+    <img src="https://gh-readme-activity-graph-pi.vercel.app/api/server?username=gschz&area=true&hide_border=true" alt="Activity Graph" />
   </picture>
   <hr style="border: 1px solid #9745F5; width: 100%;" />
 </div>
